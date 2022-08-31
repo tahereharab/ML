@@ -1,1 +1,5 @@
-# ML
+# Data-driven bus crowding prediction models using context-specific features
+
+Public transit is one of the first things that come to mind when someone talks about “smart cities.” As a result, many technologies, applications, and infrastructure have already been deployed to bring the promise of the smart city to public transportation. Most of these have focused on answering the question, “When will my bus arrive?”; little has been done to answer the question, “How full will my next bus be?” which also dramatically affects commuters’ quality of life. In this article, we consider the bus fullness problem. In particular, we propose two different formulations of the problem, develop multiple predictive models, and evaluate their accuracy using data from the Pittsburgh region. Our predictive models consistently outperform the baselines (by up to 8 times).
+
+Please cite our papers "Data-driven bus crowding prediction models using context-specific features" and "How full will my next bus be? A Framework to Predict Bus Crowding Levels".
